@@ -1,2 +1,2 @@
 # interactive-hypothesis-testing
- A sandbox for playing around with hypothesis testing and binary detection.
+ A sandbox for exploring hypothesis testing and binary detection.
