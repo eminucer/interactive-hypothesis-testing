@@ -1,6 +1,8 @@
 # interactive-hypothesis-testing
  A sandbox for playing around with hypothesis testing and binary detection.
 
+ - Go to [GitHub Page](https://eminucer.github.io/interactive-hypothesis-testing/hypothesis_testing.html) to start playing.
+
  You can play around with different parameters and see how they would effect the sample distributions and detection accuracy.
 
  ![fig1](figs/fig1.png)
